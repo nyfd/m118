@@ -1,0 +1,559 @@
+
+
+New files:
+==========
+2021-04-03T15:06:18Z	system/usagestats/0/daily/1617461996710	        3960
+2021-04-03T15:06:18Z	system/usagestats/0/monthly/1617461996710	        1611
+2021-04-03T15:06:18Z	system/usagestats/0/weekly/1617461996710	        1611
+2021-04-03T15:06:18Z	system/usagestats/0/yearly/1617461996710	        1611
+2021-04-03T15:06:20Z	$OrphanFiles/OrphanFile-22188	           0
+2021-04-03T15:06:23Z	data/com.axa.trx.bodyguard/shared_prefs/TSLocationManager.xml.bak	           0
+2021-04-03T15:06:38Z	data/com.google.android.gms/shared_prefs/GoogleAnalyticsPlayLogs.xml.bak	           0
+2021-04-03T15:06:38Z	data/com.google.android.gms/shared_prefs/GoogleAnalyticsPlayLogs.xml	         113
+
+
+Deleted files:
+==============
+2021-04-03T15:05:49Z	data/com.google.android.gms/databases/phenotype.db-wal	           0
+2021-04-03T15:05:49Z	data/com.google.android.gms/databases/phenotype.db-shm	       32768
+2021-04-03T15:04:28Z	data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	         415
+2021-04-03T14:59:59Z	data/com.android.providers.calendar/shared_prefs/sanity.xml	         178
+2021-04-03T15:03:46Z	$OrphanFiles/OrphanFile-22189	           0
+2021-04-03T15:05:58Z	data/com.google.android.gms/shared_prefs/GoogleAnalyticsPlayLogs.xml.bak	        3455
+2021-04-03T15:05:59Z	data/com.axa.trx.bodyguard/shared_prefs/TSLocationManager.xml.bak	           0
+
+
+Renamed files:
+==============
+
+Renamed	            	system/usagestats/0/daily/1617460997634	renamed to	system/usagestats/0/daily/1617461000311
+
+system/usagestats/0/daily/1617461000311	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/monthly/1617460997634	renamed to	system/usagestats/0/monthly/1617461000311
+
+system/usagestats/0/monthly/1617461000311	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/weekly/1617460997634	renamed to	system/usagestats/0/weekly/1617461000311
+
+system/usagestats/0/weekly/1617461000311	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/yearly/1617460997634	renamed to	system/usagestats/0/yearly/1617461000311
+
+system/usagestats/0/yearly/1617461000311	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/daily/1617461321577	renamed to	system/usagestats/0/daily/1617461324254
+
+system/usagestats/0/daily/1617461324254	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/monthly/1617461321577	renamed to	system/usagestats/0/monthly/1617461324254
+
+system/usagestats/0/monthly/1617461324254	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/weekly/1617461321577	renamed to	system/usagestats/0/weekly/1617461324254
+
+system/usagestats/0/weekly/1617461324254	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/yearly/1617461321577	renamed to	system/usagestats/0/yearly/1617461324254
+
+system/usagestats/0/yearly/1617461324254	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/daily/1617461479162	renamed to	system/usagestats/0/daily/1617461481839
+
+system/usagestats/0/daily/1617461481839	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/monthly/1617461479162	renamed to	system/usagestats/0/monthly/1617461481839
+
+system/usagestats/0/monthly/1617461481839	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/weekly/1617461479162	renamed to	system/usagestats/0/weekly/1617461481839
+
+system/usagestats/0/weekly/1617461481839	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/yearly/1617461479162	renamed to	system/usagestats/0/yearly/1617461481839
+
+system/usagestats/0/yearly/1617461481839	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/daily/1617461580813	renamed to	system/usagestats/0/daily/1617461583490
+
+system/usagestats/0/daily/1617461583490	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/monthly/1617461580813	renamed to	system/usagestats/0/monthly/1617461583490
+
+system/usagestats/0/monthly/1617461583490	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/weekly/1617461580813	renamed to	system/usagestats/0/weekly/1617461583490
+
+system/usagestats/0/weekly/1617461583490	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/yearly/1617461580813	renamed to	system/usagestats/0/yearly/1617461583490
+
+system/usagestats/0/yearly/1617461583490	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/daily/1617461705330	renamed to	system/usagestats/0/daily/1617461708007
+
+system/usagestats/0/daily/1617461708007	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/monthly/1617461705330	renamed to	system/usagestats/0/monthly/1617461708007
+
+system/usagestats/0/monthly/1617461708007	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/weekly/1617461705330	renamed to	system/usagestats/0/weekly/1617461708007
+
+system/usagestats/0/weekly/1617461708007	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/yearly/1617461705330	renamed to	system/usagestats/0/yearly/1617461708007
+
+system/usagestats/0/yearly/1617461708007	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/daily/1617461790764	renamed to	system/usagestats/0/daily/1617461793441
+
+system/usagestats/0/daily/1617461793441	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/monthly/1617461790764	renamed to	system/usagestats/0/monthly/1617461793441
+
+system/usagestats/0/monthly/1617461793441	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/weekly/1617461790764	renamed to	system/usagestats/0/weekly/1617461793441
+
+system/usagestats/0/weekly/1617461793441	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/yearly/1617461790764	renamed to	system/usagestats/0/yearly/1617461793441
+
+system/usagestats/0/yearly/1617461793441	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/daily/1617461923340	renamed to	system/usagestats/0/daily/1617461926017
+
+system/usagestats/0/daily/1617461926017	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/monthly/1617461923340	renamed to	system/usagestats/0/monthly/1617461926017
+
+system/usagestats/0/monthly/1617461926017	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/weekly/1617461923340	renamed to	system/usagestats/0/weekly/1617461926017
+
+system/usagestats/0/weekly/1617461926017	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	system/usagestats/0/yearly/1617461923340	renamed to	system/usagestats/0/yearly/1617461926017
+
+system/usagestats/0/yearly/1617461926017	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+Renamed	            	data/com.google.android.gms/shared_prefs/GoogleAnalyticsPlayLogs.xml	renamed to	data/com.android.providers.calendar/shared_prefs/sanity.xml
+
+data/com.android.providers.calendar/shared_prefs/sanity.xml	mtime changed, 	2021-04-03T15:05:57Z	->	2021-04-03T15:06:23Z
+data/com.android.providers.calendar/shared_prefs/sanity.xml	atime changed, 	2021-04-03T15:05:57Z	->	2021-04-03T15:06:23Z
+data/com.android.providers.calendar/shared_prefs/sanity.xml	ctime changed, 	2021-04-03T15:05:57Z	->	2021-04-03T15:06:23Z
+data/com.android.providers.calendar/shared_prefs/sanity.xml	crtime changed, 	2021-04-03T15:05:57Z	->	2021-04-03T15:06:23Z
+data/com.android.providers.calendar/shared_prefs/sanity.xml	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=311857152, img_offset=311857152, len=113)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=311885824, img_offset=311885824, len=178)])
+data/com.android.providers.calendar/shared_prefs/sanity.xml	filesize changed, 	         113	         178
+data/com.android.providers.calendar/shared_prefs/sanity.xml	gid changed, 	       10012	       10035
+data/com.android.providers.calendar/shared_prefs/sanity.xml	md5 changed, 	4cc5ccae39131912aac96c8e37fa6f96	a8a1321e50e4d38d519c8cf6833026a9
+data/com.android.providers.calendar/shared_prefs/sanity.xml	parent_object changed, 	FileObject(annos=set(), inode=15385)	FileObject(annos=set(), inode=15357)
+data/com.android.providers.calendar/shared_prefs/sanity.xml	sha1 changed, 	ecdfd45120d6a4c2a3d7219457e08bf830c23563	cf4310d91324cec832bddd963ee5425d2bb9bf9d
+data/com.android.providers.calendar/shared_prefs/sanity.xml	uid changed, 	       10012	       10035
+
+
+Files with modified contents:
+=============================
+
+data/com.google.android.gms/files/clearcut/0/LE/-1468540747/1617445212477.NONE	mtime changed, 	2021-04-03T15:05:53Z	->	2021-04-03T15:06:09Z
+data/com.google.android.gms/files/clearcut/0/LE/-1468540747/1617445212477.NONE	ctime changed, 	2021-04-03T15:05:53Z	->	2021-04-03T15:06:09Z
+data/com.google.android.gms/files/clearcut/0/LE/-1468540747/1617445212477.NONE	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=303288320, img_offset=303288320, len=4096), ByteRun(file_offset=4096, fs_offset=304582656, img_offset=304582656, len=4096), ByteRun(file_offset=8192, fs_offset=307568640, img_offset=307568640, len=4096), ByteRun(file_offset=12288, fs_offset=305197056, img_offset=305197056, len=4096), ByteRun(file_offset=16384, fs_offset=311435264, img_offset=311435264, len=4096), ByteRun(file_offset=20480, fs_offset=309714944, img_offset=309714944, len=4096), ByteRun(file_offset=24576, fs_offset=305754112, img_offset=305754112, len=4096), ByteRun(file_offset=28672, fs_offset=308273152, img_offset=308273152, len=2640)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=303288320, img_offset=303288320, len=4096), ByteRun(file_offset=4096, fs_offset=304582656, img_offset=304582656, len=4096), ByteRun(file_offset=8192, fs_offset=307568640, img_offset=307568640, len=4096), ByteRun(file_offset=12288, fs_offset=305197056, img_offset=305197056, len=4096), ByteRun(file_offset=16384, fs_offset=311435264, img_offset=311435264, len=4096), ByteRun(file_offset=20480, fs_offset=309714944, img_offset=309714944, len=4096), ByteRun(file_offset=24576, fs_offset=305754112, img_offset=305754112, len=4096), ByteRun(file_offset=28672, fs_offset=308273152, img_offset=308273152, len=3560)])
+data/com.google.android.gms/files/clearcut/0/LE/-1468540747/1617445212477.NONE	filesize changed, 	       31312	       32232
+data/com.google.android.gms/files/clearcut/0/LE/-1468540747/1617445212477.NONE	md5 changed, 	04eb0673705cb32ad3065704bbbd79f0	9aaad181d2f872ab6285f43086db044f
+data/com.google.android.gms/files/clearcut/0/LE/-1468540747/1617445212477.NONE	sha1 changed, 	3264240500ecfadf73499c48d2cebb7923e9275a	e54d8d1c97acb3e78ef31d7b02ba99a6e2b8a8e5
+
+system/usagestats/0/daily	mtime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/daily	ctime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/daily	md5 changed, 	abcf085f06fefead70540d20cce5f617	d3551dac567cbc1faf0b3ffb9ef46a64
+system/usagestats/0/daily	sha1 changed, 	2f960a16bef969175bdcc92d578135d2a8e10f3c	89efed54e7aa83602cba364b2a4b3835717d69f1
+
+system/usagestats/0/monthly	mtime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/monthly	ctime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/monthly	md5 changed, 	73d208292c0ab2173a4b465769bf608f	eb7d34bf9a787541f16c372be92b14de
+system/usagestats/0/monthly	sha1 changed, 	457ad804a5491d8dc4d518475525a2675fe96056	21e15bcef58216edfd1653e1b6e39bf87895b592
+
+system/usagestats/0/weekly	mtime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/weekly	ctime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/weekly	md5 changed, 	fee5a744d8b9bf9cfbe23f4e55fca520	23e250fdfc0a5d553f91421839ae1f75
+system/usagestats/0/weekly	sha1 changed, 	f34f73e94eb9c81f3009cca9539e76d8a47e16aa	924a16fe25ac26d427b9798e3d1b27baf501b788
+
+system/usagestats/0/yearly	mtime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/yearly	ctime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/yearly	md5 changed, 	924b2dbbb556c6848af05648aa51e55e	f36b1bde64fee320337310d40595f66d
+system/usagestats/0/yearly	sha1 changed, 	d869a3ecb79ac10597f49fcd90b16ea74aa56b8e	432e6514c3a04a3e2e199f02e052c328325030fe
+
+data/com.google.android.apps.nexuslauncher/databases/app_icons.db-shm	mtime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+data/com.google.android.apps.nexuslauncher/databases/app_icons.db-shm	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+data/com.google.android.apps.nexuslauncher/databases/app_icons.db-shm	md5 changed, 	4541a6755a7dfb81846ff9e88bdf62cd	30500732bc54034b387a5768a307b097
+data/com.google.android.apps.nexuslauncher/databases/app_icons.db-shm	sha1 changed, 	8d5a4f950bf40f8eac3b126dc08788a09b3bb36f	ddd825522d383abb73312b18df91c371cb1e5261
+
+data/com.google.android.apps.nexuslauncher/databases/app_icons.db-wal	mtime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+data/com.google.android.apps.nexuslauncher/databases/app_icons.db-wal	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+data/com.google.android.apps.nexuslauncher/databases/app_icons.db-wal	md5 changed, 	3898436c1741f412508e17e908744f74	2143c162cfdbe5596899ed2d8456ba18
+data/com.google.android.apps.nexuslauncher/databases/app_icons.db-wal	sha1 changed, 	4a76a42616012fda332f96ba0075f8db722f0d03	f3faef0dfc2cd674b65942235b9638d1b02b850a
+
+data/com.google.android.gms/files/clearcut	mtime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+data/com.google.android.gms/files/clearcut	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+data/com.google.android.gms/files/clearcut	md5 changed, 	0fb4cb337cdcb125bf3457ca4ff53267	b629878517b939ecce41a7a5710e28c6
+data/com.google.android.gms/files/clearcut	sha1 changed, 	b8f195d9ca69e5ccb55bd92a2e774ded3c323aa7	dc1ba951fa2161841b8107f802c46db4479a8fe5
+
+data/com.google.android.gms/files/clearcut/0/SETUP_WIZARD/-1834325334	mtime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+data/com.google.android.gms/files/clearcut/0/SETUP_WIZARD/-1834325334	atime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+data/com.google.android.gms/files/clearcut/0/SETUP_WIZARD/-1834325334	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+data/com.google.android.gms/files/clearcut/0/SETUP_WIZARD/-1834325334	crtime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+data/com.google.android.gms/files/clearcut/0/SETUP_WIZARD/-1834325334	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=307544064, img_offset=307544064, len=1476)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=311881728, img_offset=311881728, len=1476)])
+data/com.google.android.gms/files/clearcut/0/SETUP_WIZARD/-1834325334	md5 changed, 	59cd0383c1202a8064778c2014367305	1da236db63de825afb7396065e732f68
+data/com.google.android.gms/files/clearcut/0/SETUP_WIZARD/-1834325334	sha1 changed, 	4af6199d08a6bf4bce2d3ddb0ec8a3dc0795b1c4	c79d702807735dc00065c367b03963d0d21dafc6
+
+data/com.google.android.gms/files/clearcut/internal_events.pb	mtime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+data/com.google.android.gms/files/clearcut/internal_events.pb	atime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+data/com.google.android.gms/files/clearcut/internal_events.pb	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+data/com.google.android.gms/files/clearcut/internal_events.pb	crtime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+data/com.google.android.gms/files/clearcut/internal_events.pb	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=307539968, img_offset=307539968, len=320)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=309997568, img_offset=309997568, len=352)])
+data/com.google.android.gms/files/clearcut/internal_events.pb	filesize changed, 	         320	         352
+data/com.google.android.gms/files/clearcut/internal_events.pb	inode changed, 	       16348	       16335
+data/com.google.android.gms/files/clearcut/internal_events.pb	md5 changed, 	2dd97e890aa6e6eccd79207a6399f33e	79ca05fb5dd0bce4d0e05922bbb55267
+data/com.google.android.gms/files/clearcut/internal_events.pb	sha1 changed, 	45179bc19272bf65f8bcfbb5491889b9c08dbf26	4c40e6af2e6785d288ff3ee8fe96466558bbbb27
+
+data/com.google.android.gms/files/clearcut/internal_events.pb.tmp	mtime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+data/com.google.android.gms/files/clearcut/internal_events.pb.tmp	atime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+data/com.google.android.gms/files/clearcut/internal_events.pb.tmp	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+data/com.google.android.gms/files/clearcut/internal_events.pb.tmp	crtime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+data/com.google.android.gms/files/clearcut/internal_events.pb.tmp	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=307539968, img_offset=307539968, len=320)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=309997568, img_offset=309997568, len=352)])
+data/com.google.android.gms/files/clearcut/internal_events.pb.tmp	filesize changed, 	         320	         352
+data/com.google.android.gms/files/clearcut/internal_events.pb.tmp	inode changed, 	       16348	       16335
+data/com.google.android.gms/files/clearcut/internal_events.pb.tmp	md5 changed, 	2dd97e890aa6e6eccd79207a6399f33e	79ca05fb5dd0bce4d0e05922bbb55267
+data/com.google.android.gms/files/clearcut/internal_events.pb.tmp	sha1 changed, 	45179bc19272bf65f8bcfbb5491889b9c08dbf26	4c40e6af2e6785d288ff3ee8fe96466558bbbb27
+
+data/com.google.android.gms/shared_prefs/com.google.android.gms.update.storage.xml	mtime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+data/com.google.android.gms/shared_prefs/com.google.android.gms.update.storage.xml	atime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+data/com.google.android.gms/shared_prefs/com.google.android.gms.update.storage.xml	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+data/com.google.android.gms/shared_prefs/com.google.android.gms.update.storage.xml	crtime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+data/com.google.android.gms/shared_prefs/com.google.android.gms.update.storage.xml	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=307544064, img_offset=307544064, len=1476)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=311881728, img_offset=311881728, len=1476)])
+data/com.google.android.gms/shared_prefs/com.google.android.gms.update.storage.xml	md5 changed, 	59cd0383c1202a8064778c2014367305	1da236db63de825afb7396065e732f68
+data/com.google.android.gms/shared_prefs/com.google.android.gms.update.storage.xml	sha1 changed, 	4af6199d08a6bf4bce2d3ddb0ec8a3dc0795b1c4	c79d702807735dc00065c367b03963d0d21dafc6
+
+system/usagestats/0/daily/1617461994033	mtime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/daily/1617461994033	atime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/daily/1617461994033	ctime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/daily/1617461994033	crtime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/daily/1617461994033	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=309719040, img_offset=309719040, len=2991)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=311865344, img_offset=311865344, len=3960)])
+system/usagestats/0/daily/1617461994033	filesize changed, 	        2991	        3960
+system/usagestats/0/daily/1617461994033	inode changed, 	       15727	       15991
+system/usagestats/0/daily/1617461994033	md5 changed, 	cc117f8df7841e7219b9e3cde48e8307	7682256952d52649291f388d7cefce56
+system/usagestats/0/daily/1617461994033	sha1 changed, 	5efae0e4174973862eba966ba6dc306cf9a2705b	649603236d027ad933ac245d46757b39cb66b99d
+
+system/usagestats/0/monthly/1617461994033	mtime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/monthly/1617461994033	atime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/monthly/1617461994033	ctime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/monthly/1617461994033	crtime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/monthly/1617461994033	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=311545856, img_offset=311545856, len=1480)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=314851328, img_offset=314851328, len=1611)])
+system/usagestats/0/monthly/1617461994033	filesize changed, 	        1480	        1611
+system/usagestats/0/monthly/1617461994033	inode changed, 	       16325	       15740
+system/usagestats/0/monthly/1617461994033	md5 changed, 	24e604032cfb593db729991a1038d8a9	3110ee8b40962ce3bc7c70dfad3917b8
+system/usagestats/0/monthly/1617461994033	sha1 changed, 	f0c1a890fb379a837f75b01e032f4234f7f5e1ca	e7b4138779ec1ebb4161aa9ed17c4af26a22d288
+
+system/usagestats/0/weekly/1617461994033	mtime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/weekly/1617461994033	atime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/weekly/1617461994033	ctime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/weekly/1617461994033	crtime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/weekly/1617461994033	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=309723136, img_offset=309723136, len=1480)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=311869440, img_offset=311869440, len=1611)])
+system/usagestats/0/weekly/1617461994033	filesize changed, 	        1480	        1611
+system/usagestats/0/weekly/1617461994033	inode changed, 	       15740	       15727
+system/usagestats/0/weekly/1617461994033	md5 changed, 	24e604032cfb593db729991a1038d8a9	3110ee8b40962ce3bc7c70dfad3917b8
+system/usagestats/0/weekly/1617461994033	sha1 changed, 	f0c1a890fb379a837f75b01e032f4234f7f5e1ca	e7b4138779ec1ebb4161aa9ed17c4af26a22d288
+
+system/usagestats/0/yearly/1617461994033	mtime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/yearly/1617461994033	atime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/yearly/1617461994033	ctime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/yearly/1617461994033	crtime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:18Z
+system/usagestats/0/yearly/1617461994033	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=305524736, img_offset=305524736, len=1480)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=314855424, img_offset=314855424, len=1611)])
+system/usagestats/0/yearly/1617461994033	filesize changed, 	        1480	        1611
+system/usagestats/0/yearly/1617461994033	inode changed, 	       16335	       16325
+system/usagestats/0/yearly/1617461994033	md5 changed, 	24e604032cfb593db729991a1038d8a9	3110ee8b40962ce3bc7c70dfad3917b8
+system/usagestats/0/yearly/1617461994033	sha1 changed, 	f0c1a890fb379a837f75b01e032f4234f7f5e1ca	e7b4138779ec1ebb4161aa9ed17c4af26a22d288
+
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/index-dir	mtime changed, 	2021-04-03T15:03:46Z	->	2021-04-03T15:06:20Z
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/index-dir	ctime changed, 	2021-04-03T15:03:46Z	->	2021-04-03T15:06:20Z
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/index-dir	md5 changed, 	e1a8495016e3b3d430fdc4c7475469fa	6a001ccc58b3e66ea1a5442aef23e6fe
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/index-dir	sha1 changed, 	be25b7ffc48f9e4526aa17f0edc8d3d244cb4c15	4a2df9ffe646bad25f17066bb9cc23404bdd43f7
+
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/index-dir/temp-index	mtime changed, 	2021-04-03T15:03:46Z	->	2021-04-03T15:06:20Z
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/index-dir/temp-index	atime changed, 	2021-04-03T15:03:46Z	->	2021-04-03T15:06:20Z
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/index-dir/temp-index	ctime changed, 	2021-04-03T15:03:46Z	->	2021-04-03T15:06:20Z
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/index-dir/temp-index	crtime changed, 	2021-04-03T15:03:46Z	->	2021-04-03T15:06:20Z
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/index-dir/temp-index	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=417738752, img_offset=417738752, len=72)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=405057536, img_offset=405057536, len=72)])
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/index-dir/temp-index	inode changed, 	       22188	       22189
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/index-dir/temp-index	md5 changed, 	7147ab0c170d6d6730ff9a3f9deeeaa6	49096b072ed1ad3219ed334f18564823
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/index-dir/temp-index	sha1 changed, 	1a00bd633daba3cc750d4a67a57cb11e4b33cf98	d71eaf46503ead7714d02edb5c3891179231c376
+
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/index-dir/the-real-index	mtime changed, 	2021-04-03T15:03:46Z	->	2021-04-03T15:06:20Z
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/index-dir/the-real-index	atime changed, 	2021-04-03T15:03:46Z	->	2021-04-03T15:06:20Z
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/index-dir/the-real-index	ctime changed, 	2021-04-03T15:03:46Z	->	2021-04-03T15:06:20Z
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/index-dir/the-real-index	crtime changed, 	2021-04-03T15:03:46Z	->	2021-04-03T15:06:20Z
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/index-dir/the-real-index	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=417738752, img_offset=417738752, len=72)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=405057536, img_offset=405057536, len=72)])
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/index-dir/the-real-index	inode changed, 	       22188	       22189
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/index-dir/the-real-index	md5 changed, 	7147ab0c170d6d6730ff9a3f9deeeaa6	49096b072ed1ad3219ed334f18564823
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/index-dir/the-real-index	sha1 changed, 	1a00bd633daba3cc750d4a67a57cb11e4b33cf98	d71eaf46503ead7714d02edb5c3891179231c376
+
+data/com.google.android.gms/databases	mtime changed, 	2021-04-03T15:05:49Z	->	2021-04-03T15:06:22Z
+data/com.google.android.gms/databases	ctime changed, 	2021-04-03T15:05:49Z	->	2021-04-03T15:06:22Z
+data/com.google.android.gms/databases	md5 changed, 	4e54071a1484d35d5600d8b3716dfad7	950b313f07ca556f5e9ac743b87ca465
+data/com.google.android.gms/databases	sha1 changed, 	1e640cef40a77495da1e22be72ee74c0819260c4	253bd83568208d8a30642b9bbc9158ed6e6d1fd5
+
+data/com.google.android.gms/databases/ns.db	mtime changed, 	2021-04-03T14:46:48Z	->	2021-04-03T15:06:22Z
+data/com.google.android.gms/databases/ns.db	ctime changed, 	2021-04-03T14:46:48Z	->	2021-04-03T15:06:22Z
+data/com.google.android.gms/databases/ns.db	md5 changed, 	3890b2084956084cea2373070abf235b	c7bc659fad5220e56e25b8af7a3cf975
+data/com.google.android.gms/databases/ns.db	sha1 changed, 	b74607419b8943a83832ab6c88672ec942592da1	f299649864bd9bb93cf652d5c1556b5ae69d4816
+
+system/notification_log.db-shm	mtime changed, 	2021-04-03T15:05:36Z	->	2021-04-03T15:06:23Z
+system/notification_log.db-shm	ctime changed, 	2021-04-03T15:05:36Z	->	2021-04-03T15:06:23Z
+system/notification_log.db-shm	md5 changed, 	23ac200887d49c427cedeebc39724545	62a58c32af5f6a76093bfbf605cbfeab
+system/notification_log.db-shm	sha1 changed, 	af415595e429e2688e6cda6d107f6466dcd7fe49	19764299e492fc7a3d3cef3ced46ad9f43fc8079
+
+system/notification_log.db-wal	mtime changed, 	2021-04-03T15:05:36Z	->	2021-04-03T15:06:23Z
+system/notification_log.db-wal	ctime changed, 	2021-04-03T15:05:36Z	->	2021-04-03T15:06:23Z
+system/notification_log.db-wal	md5 changed, 	97e7b655787b8d327db2e94a23152f2f	6c0a468d71acec4d4782760e429dc162
+system/notification_log.db-wal	sha1 changed, 	ec7d4a5f353565c8d0ab7e1fcbb11de9c9686e2f	abee85e036646803878175e670dd4fffbf90e25f
+
+data/com.android.providers.contacts/databases	mtime changed, 	2021-04-03T15:03:10Z	->	2021-04-03T15:06:23Z
+data/com.android.providers.contacts/databases	ctime changed, 	2021-04-03T15:03:10Z	->	2021-04-03T15:06:23Z
+data/com.android.providers.contacts/databases	md5 changed, 	f2c06aafc7920ff18cdc50957c4121f4	28470dd47be41180d9c0bce0fe552b6c
+data/com.android.providers.contacts/databases	sha1 changed, 	7e056f1470ad8215437b81fb495a40a07d8b2759	dcfa22025b0094b5a83107684fca5c9d61114760
+
+data/com.android.providers.calendar/shared_prefs	mtime changed, 	2021-04-03T14:59:59Z	->	2021-04-03T15:06:23Z
+data/com.android.providers.calendar/shared_prefs	ctime changed, 	2021-04-03T14:59:59Z	->	2021-04-03T15:06:23Z
+data/com.android.providers.calendar/shared_prefs	md5 changed, 	f0dd5ab56b4847db5ff0d9aacaf37979	3333bfa403f5a259113f5235d8297a66
+data/com.android.providers.calendar/shared_prefs	sha1 changed, 	30fe41a80dad085aefcf263ff397de30a0b4fe8c	f271728968cc43c241bd794372c35fe6468b800b
+
+data/com.google.android.gms/files/clearcut/0/ACTIVITY_RECOGNITION/1554170755/1617445013936.NONE	mtime changed, 	2021-04-03T15:05:23Z	->	2021-04-03T15:06:23Z
+data/com.google.android.gms/files/clearcut/0/ACTIVITY_RECOGNITION/1554170755/1617445013936.NONE	ctime changed, 	2021-04-03T15:05:23Z	->	2021-04-03T15:06:23Z
+data/com.google.android.gms/files/clearcut/0/ACTIVITY_RECOGNITION/1554170755/1617445013936.NONE	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=297607168, img_offset=297607168, len=4096), ByteRun(file_offset=4096, fs_offset=309415936, img_offset=309415936, len=4096), ByteRun(file_offset=8192, fs_offset=305389568, img_offset=305389568, len=4096), ByteRun(file_offset=12288, fs_offset=308146176, img_offset=308146176, len=3396)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=297607168, img_offset=297607168, len=4096), ByteRun(file_offset=4096, fs_offset=309415936, img_offset=309415936, len=4096), ByteRun(file_offset=8192, fs_offset=305389568, img_offset=305389568, len=4096), ByteRun(file_offset=12288, fs_offset=308146176, img_offset=308146176, len=4096), ByteRun(file_offset=16384, fs_offset=309989376, img_offset=309989376, len=1423)])
+data/com.google.android.gms/files/clearcut/0/ACTIVITY_RECOGNITION/1554170755/1617445013936.NONE	filesize changed, 	       15684	       17807
+data/com.google.android.gms/files/clearcut/0/ACTIVITY_RECOGNITION/1554170755/1617445013936.NONE	md5 changed, 	ca5bdc513e19ec67ef6f38f91618885d	440fba7a71f77a42c4062c1bd3aeb1b5
+data/com.google.android.gms/files/clearcut/0/ACTIVITY_RECOGNITION/1554170755/1617445013936.NONE	sha1 changed, 	2d77e9ee8874fab4c662585cfdd35a1f7f7dacf8	4135cb79eaa627b4af5bf7712bb0033ce1a8874d
+
+data/com.android.providers.contacts/shared_prefs/com.android.providers.contacts_preferences.xml.bak	mtime changed, 	2021-04-03T15:05:59Z	->	2021-04-03T15:06:23Z
+data/com.android.providers.contacts/shared_prefs/com.android.providers.contacts_preferences.xml.bak	ctime changed, 	2021-04-03T15:05:59Z	->	2021-04-03T15:06:23Z
+data/com.android.providers.contacts/shared_prefs/com.android.providers.contacts_preferences.xml.bak	md5 changed, 	6b9987f855d3061f878c2a8666aaf21d	3aa691b58dc286aea01d067ea720a5d1
+data/com.android.providers.contacts/shared_prefs/com.android.providers.contacts_preferences.xml.bak	sha1 changed, 	1d4ca244a48b88d051acb3b8e1c0510bc75380e1	5bc5294b9eab2540240257312a3c4b278644c33c
+
+data/com.axa.trx.bodyguard/shared_prefs	mtime changed, 	2021-04-03T15:05:59Z	->	2021-04-03T15:06:23Z
+data/com.axa.trx.bodyguard/shared_prefs	ctime changed, 	2021-04-03T15:05:59Z	->	2021-04-03T15:06:23Z
+data/com.axa.trx.bodyguard/shared_prefs	md5 changed, 	6b9987f855d3061f878c2a8666aaf21d	3aa691b58dc286aea01d067ea720a5d1
+data/com.axa.trx.bodyguard/shared_prefs	sha1 changed, 	1d4ca244a48b88d051acb3b8e1c0510bc75380e1	5bc5294b9eab2540240257312a3c4b278644c33c
+
+data/com.google.android.gms/files/clearcut/0/CLEARCUT_LOG_LOSS/-707125318	mtime changed, 	2021-04-03T15:05:59Z	->	2021-04-03T15:06:23Z
+data/com.google.android.gms/files/clearcut/0/CLEARCUT_LOG_LOSS/-707125318	ctime changed, 	2021-04-03T15:05:59Z	->	2021-04-03T15:06:23Z
+data/com.google.android.gms/files/clearcut/0/CLEARCUT_LOG_LOSS/-707125318	md5 changed, 	6b9987f855d3061f878c2a8666aaf21d	3aa691b58dc286aea01d067ea720a5d1
+data/com.google.android.gms/files/clearcut/0/CLEARCUT_LOG_LOSS/-707125318	sha1 changed, 	1d4ca244a48b88d051acb3b8e1c0510bc75380e1	5bc5294b9eab2540240257312a3c4b278644c33c
+
+data/com.axa.trx.bodyguard/databases/transistor_logback.db	mtime changed, 	2021-04-03T15:05:59Z	->	2021-04-03T15:06:23Z
+data/com.axa.trx.bodyguard/databases/transistor_logback.db	ctime changed, 	2021-04-03T15:05:59Z	->	2021-04-03T15:06:23Z
+data/com.axa.trx.bodyguard/databases/transistor_logback.db	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=304943104, img_offset=304943104, len=4096), ByteRun(file_offset=4096, fs_offset=307298304, img_offset=307298304, len=61440), ByteRun(file_offset=65536, fs_offset=279445504, img_offset=279445504, len=53248), ByteRun(file_offset=118784, fs_offset=281743360, img_offset=281743360, len=135168), ByteRun(file_offset=253952, fs_offset=415662080, img_offset=415662080, len=69632)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=304943104, img_offset=304943104, len=4096), ByteRun(file_offset=4096, fs_offset=307298304, img_offset=307298304, len=61440), ByteRun(file_offset=65536, fs_offset=279445504, img_offset=279445504, len=53248), ByteRun(file_offset=118784, fs_offset=281743360, img_offset=281743360, len=135168), ByteRun(file_offset=253952, fs_offset=415662080, img_offset=415662080, len=77824)])
+data/com.axa.trx.bodyguard/databases/transistor_logback.db	filesize changed, 	      323584	      331776
+data/com.axa.trx.bodyguard/databases/transistor_logback.db	md5 changed, 	dc81421c7bce7135ce39f1efbed78f81	257383481406183ff8f6b57e0849f8e2
+data/com.axa.trx.bodyguard/databases/transistor_logback.db	sha1 changed, 	f360bca2ef975987d0af883d201fa20d08de0912	ba09c683b2006d30808f8fe1b50a80189789e572
+
+data/com.axa.trx.bodyguard/databases/transistor_logback.db-shm	mtime changed, 	2021-04-03T15:05:56Z	->	2021-04-03T15:06:23Z
+data/com.axa.trx.bodyguard/databases/transistor_logback.db-shm	ctime changed, 	2021-04-03T15:05:56Z	->	2021-04-03T15:06:23Z
+data/com.axa.trx.bodyguard/databases/transistor_logback.db-shm	md5 changed, 	bd943c4fb2697d234d8eb8496a1ad5c8	af4d7e0d1a1b49cbe4ea78ce31a3efb8
+data/com.axa.trx.bodyguard/databases/transistor_logback.db-shm	sha1 changed, 	6aa56e9ef2b89f346c7fbcc6b4de80afbe8f4720	4df701d0b39f70f9c115687691075ea179e6d512
+
+data/com.axa.trx.bodyguard/databases/transistor_logback.db-wal	mtime changed, 	2021-04-03T15:05:36Z	->	2021-04-03T15:06:23Z
+data/com.axa.trx.bodyguard/databases/transistor_logback.db-wal	ctime changed, 	2021-04-03T15:05:36Z	->	2021-04-03T15:06:23Z
+data/com.axa.trx.bodyguard/databases/transistor_logback.db-wal	md5 changed, 	676f40c5efe0f51b56f3544554663409	7192c587569e38ea5cc79c487afdecd7
+data/com.axa.trx.bodyguard/databases/transistor_logback.db-wal	sha1 changed, 	c03767df7b0167cbada24a1ec55e772a642446a9	6591e07e35c491b5e1cfa6ec194c4dd33382fb42
+
+data/com.android.providers.contacts/databases/contacts2.db-shm	mtime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:23Z
+data/com.android.providers.contacts/databases/contacts2.db-shm	atime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:23Z
+data/com.android.providers.contacts/databases/contacts2.db-shm	ctime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:23Z
+data/com.android.providers.contacts/databases/contacts2.db-shm	crtime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:23Z
+data/com.android.providers.contacts/databases/contacts2.db-shm	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=305524736, img_offset=305524736, len=1480)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=305893376, img_offset=305893376, len=32768)])
+data/com.android.providers.contacts/databases/contacts2.db-shm	filesize changed, 	        1480	       32768
+data/com.android.providers.contacts/databases/contacts2.db-shm	gid changed, 	        1000	       10025
+data/com.android.providers.contacts/databases/contacts2.db-shm	inode changed, 	       16335	       16324
+data/com.android.providers.contacts/databases/contacts2.db-shm	md5 changed, 	24e604032cfb593db729991a1038d8a9	b7c14ec6110fa820ca6b65f5aec85911
+data/com.android.providers.contacts/databases/contacts2.db-shm	mode changed, 	         384	         432
+data/com.android.providers.contacts/databases/contacts2.db-shm	sha1 changed, 	f0c1a890fb379a837f75b01e032f4234f7f5e1ca	608eeb7488042453c9ca40f7e1398fc1a270f3f4
+data/com.android.providers.contacts/databases/contacts2.db-shm	uid changed, 	        1000	       10025
+
+data/com.android.providers.contacts/databases/contacts2.db-wal	mtime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:23Z
+data/com.android.providers.contacts/databases/contacts2.db-wal	atime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:23Z
+data/com.android.providers.contacts/databases/contacts2.db-wal	ctime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:23Z
+data/com.android.providers.contacts/databases/contacts2.db-wal	crtime changed, 	2021-04-03T15:03:17Z	->	2021-04-03T15:06:23Z
+data/com.android.providers.contacts/databases/contacts2.db-wal	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=309719040, img_offset=309719040, len=2991)])	            
+data/com.android.providers.contacts/databases/contacts2.db-wal	filesize changed, 	        2991	            
+data/com.android.providers.contacts/databases/contacts2.db-wal	gid changed, 	        1000	       10025
+data/com.android.providers.contacts/databases/contacts2.db-wal	inode changed, 	       15727	       16319
+data/com.android.providers.contacts/databases/contacts2.db-wal	md5 changed, 	cc117f8df7841e7219b9e3cde48e8307	            
+data/com.android.providers.contacts/databases/contacts2.db-wal	mode changed, 	         384	         432
+data/com.android.providers.contacts/databases/contacts2.db-wal	sha1 changed, 	5efae0e4174973862eba966ba6dc306cf9a2705b	            
+data/com.android.providers.contacts/databases/contacts2.db-wal	uid changed, 	        1000	       10025
+
+data/com.axa.trx.bodyguard/shared_prefs/TSLocationManager.xml	mtime changed, 	2021-04-03T15:05:59Z	->	2021-04-03T15:06:23Z
+data/com.axa.trx.bodyguard/shared_prefs/TSLocationManager.xml	atime changed, 	2021-04-03T15:05:59Z	->	2021-04-03T15:06:23Z
+data/com.axa.trx.bodyguard/shared_prefs/TSLocationManager.xml	ctime changed, 	2021-04-03T15:05:59Z	->	2021-04-03T15:06:23Z
+data/com.axa.trx.bodyguard/shared_prefs/TSLocationManager.xml	crtime changed, 	2021-04-03T15:05:59Z	->	2021-04-03T15:06:23Z
+data/com.axa.trx.bodyguard/shared_prefs/TSLocationManager.xml	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=311861248, img_offset=311861248, len=255)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=305889280, img_offset=305889280, len=65)])
+data/com.axa.trx.bodyguard/shared_prefs/TSLocationManager.xml	filesize changed, 	         255	          65
+data/com.axa.trx.bodyguard/shared_prefs/TSLocationManager.xml	inode changed, 	       16319	       16189
+data/com.axa.trx.bodyguard/shared_prefs/TSLocationManager.xml	md5 changed, 	a498e518ba352b60b80fd035186286c4	9781ca003f10f8d0c9c1945b63fdca7f
+data/com.axa.trx.bodyguard/shared_prefs/TSLocationManager.xml	sha1 changed, 	a452ecb56adf3b96bff2a751d7430b63f0cd5e6b	4156cf5dc8d71dbab734d25e5e1598b37a5456f4
+
+data/com.axa.trx.bodyguard/shared_prefs/TSLocationManager:TSConfig.xml	mtime changed, 	2021-04-03T15:05:58Z	->	2021-04-03T15:06:23Z
+data/com.axa.trx.bodyguard/shared_prefs/TSLocationManager:TSConfig.xml	atime changed, 	2021-04-03T15:05:58Z	->	2021-04-03T15:06:23Z
+data/com.axa.trx.bodyguard/shared_prefs/TSLocationManager:TSConfig.xml	ctime changed, 	2021-04-03T15:05:58Z	->	2021-04-03T15:06:23Z
+data/com.axa.trx.bodyguard/shared_prefs/TSLocationManager:TSConfig.xml	crtime changed, 	2021-04-03T15:05:58Z	->	2021-04-03T15:06:23Z
+data/com.axa.trx.bodyguard/shared_prefs/TSLocationManager:TSConfig.xml	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=309985280, img_offset=309985280, len=3455)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=310005760, img_offset=310005760, len=3457)])
+data/com.axa.trx.bodyguard/shared_prefs/TSLocationManager:TSConfig.xml	filesize changed, 	        3455	        3457
+data/com.axa.trx.bodyguard/shared_prefs/TSLocationManager:TSConfig.xml	inode changed, 	       16189	       16285
+data/com.axa.trx.bodyguard/shared_prefs/TSLocationManager:TSConfig.xml	md5 changed, 	78366e6446c8b1e31ca8f9f80ac6114c	104560566f1a97ff653d25e183eb5c00
+data/com.axa.trx.bodyguard/shared_prefs/TSLocationManager:TSConfig.xml	sha1 changed, 	fbb74ebbcacb4b52de16e475946765f20b430fb1	119de5c0b8122f14a587ce91ebd6238a22186668
+
+data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-shm	mtime changed, 	2021-04-03T15:05:57Z	->	2021-04-03T15:06:23Z
+data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-shm	atime changed, 	2021-04-03T15:05:57Z	->	2021-04-03T15:06:23Z
+data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-shm	ctime changed, 	2021-04-03T15:05:57Z	->	2021-04-03T15:06:23Z
+data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-shm	crtime changed, 	2021-04-03T15:05:57Z	->	2021-04-03T15:06:23Z
+data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-shm	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=311857152, img_offset=311857152, len=113)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=311885824, img_offset=311885824, len=178)])
+data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-shm	filesize changed, 	         113	         178
+data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-shm	gid changed, 	       10012	       10035
+data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-shm	md5 changed, 	4cc5ccae39131912aac96c8e37fa6f96	a8a1321e50e4d38d519c8cf6833026a9
+data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-shm	sha1 changed, 	ecdfd45120d6a4c2a3d7219457e08bf830c23563	cf4310d91324cec832bddd963ee5425d2bb9bf9d
+data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-shm	uid changed, 	       10012	       10035
+
+data/com.google.android.gms/databases/ns.db-shm	mtime changed, 	2021-04-03T15:05:49Z	->	2021-04-03T15:06:23Z
+data/com.google.android.gms/databases/ns.db-shm	atime changed, 	2021-04-03T15:05:49Z	->	2021-04-03T15:06:23Z
+data/com.google.android.gms/databases/ns.db-shm	ctime changed, 	2021-04-03T15:05:49Z	->	2021-04-03T15:06:23Z
+data/com.google.android.gms/databases/ns.db-shm	crtime changed, 	2021-04-03T15:05:49Z	->	2021-04-03T15:06:23Z
+data/com.google.android.gms/databases/ns.db-shm	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=314753024, img_offset=314753024, len=32768)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=305893376, img_offset=305893376, len=32768)])
+data/com.google.android.gms/databases/ns.db-shm	gid changed, 	       10012	       10025
+data/com.google.android.gms/databases/ns.db-shm	md5 changed, 	428de445695afec89dd8e89f1f2f0e44	b7c14ec6110fa820ca6b65f5aec85911
+data/com.google.android.gms/databases/ns.db-shm	sha1 changed, 	c6045868a04bf05d950977f0d771ba31b2ba7231	608eeb7488042453c9ca40f7e1398fc1a270f3f4
+data/com.google.android.gms/databases/ns.db-shm	uid changed, 	       10012	       10025
+
+data/com.google.android.gms/databases/ns.db-wal	mtime changed, 	2021-04-03T15:05:49Z	->	2021-04-03T15:06:23Z
+data/com.google.android.gms/databases/ns.db-wal	atime changed, 	2021-04-03T15:05:49Z	->	2021-04-03T15:06:23Z
+data/com.google.android.gms/databases/ns.db-wal	ctime changed, 	2021-04-03T15:05:49Z	->	2021-04-03T15:06:23Z
+data/com.google.android.gms/databases/ns.db-wal	crtime changed, 	2021-04-03T15:05:49Z	->	2021-04-03T15:06:23Z
+data/com.google.android.gms/databases/ns.db-wal	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=309981184, img_offset=309981184, len=4096), ByteRun(file_offset=4096, fs_offset=314728448, img_offset=314728448, len=20656)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=310005760, img_offset=310005760, len=3457)])
+data/com.google.android.gms/databases/ns.db-wal	filesize changed, 	       24752	        3457
+data/com.google.android.gms/databases/ns.db-wal	gid changed, 	       10012	       10085
+data/com.google.android.gms/databases/ns.db-wal	md5 changed, 	ade0b21ac15839e459cde393b3c67c6e	104560566f1a97ff653d25e183eb5c00
+data/com.google.android.gms/databases/ns.db-wal	sha1 changed, 	1142f05329a8f7bd3d4d8c5f677aab590e5cd3fa	119de5c0b8122f14a587ce91ebd6238a22186668
+data/com.google.android.gms/databases/ns.db-wal	uid changed, 	       10012	       10085
+
+data/com.google.android.inputmethod.latin/shared_prefs/com.google.android.inputmethod.latin_preferences.xml.bak	mtime changed, 	2021-04-03T15:05:49Z	->	2021-04-03T15:06:23Z
+data/com.google.android.inputmethod.latin/shared_prefs/com.google.android.inputmethod.latin_preferences.xml.bak	atime changed, 	2021-04-03T15:05:49Z	->	2021-04-03T15:06:23Z
+data/com.google.android.inputmethod.latin/shared_prefs/com.google.android.inputmethod.latin_preferences.xml.bak	ctime changed, 	2021-04-03T15:05:49Z	->	2021-04-03T15:06:23Z
+data/com.google.android.inputmethod.latin/shared_prefs/com.google.android.inputmethod.latin_preferences.xml.bak	crtime changed, 	2021-04-03T15:05:49Z	->	2021-04-03T15:06:23Z
+data/com.google.android.inputmethod.latin/shared_prefs/com.google.android.inputmethod.latin_preferences.xml.bak	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=314753024, img_offset=314753024, len=32768)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=305893376, img_offset=305893376, len=32768)])
+data/com.google.android.inputmethod.latin/shared_prefs/com.google.android.inputmethod.latin_preferences.xml.bak	gid changed, 	       10012	       10025
+data/com.google.android.inputmethod.latin/shared_prefs/com.google.android.inputmethod.latin_preferences.xml.bak	md5 changed, 	428de445695afec89dd8e89f1f2f0e44	b7c14ec6110fa820ca6b65f5aec85911
+data/com.google.android.inputmethod.latin/shared_prefs/com.google.android.inputmethod.latin_preferences.xml.bak	sha1 changed, 	c6045868a04bf05d950977f0d771ba31b2ba7231	608eeb7488042453c9ca40f7e1398fc1a270f3f4
+data/com.google.android.inputmethod.latin/shared_prefs/com.google.android.inputmethod.latin_preferences.xml.bak	uid changed, 	       10012	       10025
+
+system/notification_policy.xml.bak	mtime changed, 	2021-04-03T15:05:59Z	->	2021-04-03T15:06:23Z
+system/notification_policy.xml.bak	atime changed, 	2021-04-03T15:05:59Z	->	2021-04-03T15:06:23Z
+system/notification_policy.xml.bak	ctime changed, 	2021-04-03T15:05:59Z	->	2021-04-03T15:06:23Z
+system/notification_policy.xml.bak	crtime changed, 	2021-04-03T15:05:59Z	->	2021-04-03T15:06:23Z
+system/notification_policy.xml.bak	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=311861248, img_offset=311861248, len=255)])	            
+system/notification_policy.xml.bak	filesize changed, 	         255	            
+system/notification_policy.xml.bak	gid changed, 	       10085	       10025
+system/notification_policy.xml.bak	md5 changed, 	a498e518ba352b60b80fd035186286c4	            
+system/notification_policy.xml.bak	sha1 changed, 	a452ecb56adf3b96bff2a751d7430b63f0cd5e6b	            
+system/notification_policy.xml.bak	uid changed, 	       10085	       10025
+
+data/com.google.android.gms/files/clearcut/funnel	mtime changed, 	2021-04-03T15:05:58Z	->	2021-04-03T15:06:24Z
+data/com.google.android.gms/files/clearcut/funnel	ctime changed, 	2021-04-03T15:05:58Z	->	2021-04-03T15:06:24Z
+data/com.google.android.gms/files/clearcut/funnel	md5 changed, 	8be934875a48fc34c15028e02b66f7d1	e1af70ac43bf88d63161d2ec0d32911a
+data/com.google.android.gms/files/clearcut/funnel	sha1 changed, 	b9e1861da14ed19267d4cfd2b1c6bfcd483a8617	3a5cc77e9c6b1de93a9f9a42d17610db21dcd314
+
+data/com.google.android.gms/files/clearcut/0/MAPS_API_COUNTERS/-1881638711/1617461490714.NONE	mtime changed, 	2021-04-03T15:05:35Z	->	2021-04-03T15:06:24Z
+data/com.google.android.gms/files/clearcut/0/MAPS_API_COUNTERS/-1881638711/1617461490714.NONE	ctime changed, 	2021-04-03T15:05:35Z	->	2021-04-03T15:06:24Z
+data/com.google.android.gms/files/clearcut/0/MAPS_API_COUNTERS/-1881638711/1617461490714.NONE	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=309153792, img_offset=309153792, len=2060)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=309153792, img_offset=309153792, len=2305)])
+data/com.google.android.gms/files/clearcut/0/MAPS_API_COUNTERS/-1881638711/1617461490714.NONE	filesize changed, 	        2060	        2305
+data/com.google.android.gms/files/clearcut/0/MAPS_API_COUNTERS/-1881638711/1617461490714.NONE	md5 changed, 	4b15902ae0cfade3d6e7d6751f97ced6	3f6b95678547d3225302e108cddb4a79
+data/com.google.android.gms/files/clearcut/0/MAPS_API_COUNTERS/-1881638711/1617461490714.NONE	sha1 changed, 	12e3be75de6b665698d2b0c73836a6378e1cb566	25d7fc9c7f536bf5bc45621d933a308eb146d446
+
+data/com.google.android.gms/files/clearcut/0/MAPS_API/1201866353/1617461279142.NONE	mtime changed, 	2021-04-03T15:05:58Z	->	2021-04-03T15:06:25Z
+data/com.google.android.gms/files/clearcut/0/MAPS_API/1201866353/1617461279142.NONE	ctime changed, 	2021-04-03T15:05:58Z	->	2021-04-03T15:06:25Z
+data/com.google.android.gms/files/clearcut/0/MAPS_API/1201866353/1617461279142.NONE	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=310468608, img_offset=310468608, len=4096), ByteRun(file_offset=4096, fs_offset=309157888, img_offset=309157888, len=4096), ByteRun(file_offset=8192, fs_offset=309293056, img_offset=309293056, len=8192), ByteRun(file_offset=16384, fs_offset=309567488, img_offset=309567488, len=4096), ByteRun(file_offset=20480, fs_offset=305405952, img_offset=305405952, len=8192), ByteRun(file_offset=28672, fs_offset=305463296, img_offset=305463296, len=4096), ByteRun(file_offset=32768, fs_offset=311463936, img_offset=311463936, len=4096), ByteRun(file_offset=36864, fs_offset=309698560, img_offset=309698560, len=4096), ByteRun(file_offset=40960, fs_offset=308162560, img_offset=308162560, len=4096), ByteRun(file_offset=45056, fs_offset=305750016, img_offset=305750016, len=4096)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=310468608, img_offset=310468608, len=4096), ByteRun(file_offset=4096, fs_offset=309157888, img_offset=309157888, len=4096), ByteRun(file_offset=8192, fs_offset=309293056, img_offset=309293056, len=8192), ByteRun(file_offset=16384, fs_offset=309567488, img_offset=309567488, len=4096), ByteRun(file_offset=20480, fs_offset=305405952, img_offset=305405952, len=8192), ByteRun(file_offset=28672, fs_offset=305463296, img_offset=305463296, len=4096), ByteRun(file_offset=32768, fs_offset=311463936, img_offset=311463936, len=4096), ByteRun(file_offset=36864, fs_offset=309698560, img_offset=309698560, len=4096), ByteRun(file_offset=40960, fs_offset=308162560, img_offset=308162560, len=4096), ByteRun(file_offset=45056, fs_offset=305750016, img_offset=305750016, len=4096), ByteRun(file_offset=49152, fs_offset=309993472, img_offset=309993472, len=3500)])
+data/com.google.android.gms/files/clearcut/0/MAPS_API/1201866353/1617461279142.NONE	filesize changed, 	       49152	       52652
+data/com.google.android.gms/files/clearcut/0/MAPS_API/1201866353/1617461279142.NONE	md5 changed, 	bda5385afaf51dea06e7f054aa288e26	24f1f6aa40a230ec8f00a5e5ea699d9b
+data/com.google.android.gms/files/clearcut/0/MAPS_API/1201866353/1617461279142.NONE	sha1 changed, 	eadbcc3dcc70c89ac3d105842a3991fa687f01fb	b8beb3e71e19e303dbf84cdf0e8d47bc223e483b
+
+data/com.google.android.gms/files/clearcut/0/MATCHSTICK_COUNTERS/-1575997169	mtime changed, 	2021-04-03T15:05:58Z	->	2021-04-03T15:06:25Z
+data/com.google.android.gms/files/clearcut/0/MATCHSTICK_COUNTERS/-1575997169	ctime changed, 	2021-04-03T15:05:58Z	->	2021-04-03T15:06:25Z
+data/com.google.android.gms/files/clearcut/0/MATCHSTICK_COUNTERS/-1575997169	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=310468608, img_offset=310468608, len=4096), ByteRun(file_offset=4096, fs_offset=309157888, img_offset=309157888, len=4096), ByteRun(file_offset=8192, fs_offset=309293056, img_offset=309293056, len=8192), ByteRun(file_offset=16384, fs_offset=309567488, img_offset=309567488, len=4096), ByteRun(file_offset=20480, fs_offset=305405952, img_offset=305405952, len=8192), ByteRun(file_offset=28672, fs_offset=305463296, img_offset=305463296, len=4096), ByteRun(file_offset=32768, fs_offset=311463936, img_offset=311463936, len=4096), ByteRun(file_offset=36864, fs_offset=309698560, img_offset=309698560, len=4096), ByteRun(file_offset=40960, fs_offset=308162560, img_offset=308162560, len=4096), ByteRun(file_offset=45056, fs_offset=305750016, img_offset=305750016, len=4096)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=310468608, img_offset=310468608, len=4096), ByteRun(file_offset=4096, fs_offset=309157888, img_offset=309157888, len=4096), ByteRun(file_offset=8192, fs_offset=309293056, img_offset=309293056, len=8192), ByteRun(file_offset=16384, fs_offset=309567488, img_offset=309567488, len=4096), ByteRun(file_offset=20480, fs_offset=305405952, img_offset=305405952, len=8192), ByteRun(file_offset=28672, fs_offset=305463296, img_offset=305463296, len=4096), ByteRun(file_offset=32768, fs_offset=311463936, img_offset=311463936, len=4096), ByteRun(file_offset=36864, fs_offset=309698560, img_offset=309698560, len=4096), ByteRun(file_offset=40960, fs_offset=308162560, img_offset=308162560, len=4096), ByteRun(file_offset=45056, fs_offset=305750016, img_offset=305750016, len=4096), ByteRun(file_offset=49152, fs_offset=309993472, img_offset=309993472, len=3500)])
+data/com.google.android.gms/files/clearcut/0/MATCHSTICK_COUNTERS/-1575997169	filesize changed, 	       49152	       52652
+data/com.google.android.gms/files/clearcut/0/MATCHSTICK_COUNTERS/-1575997169	md5 changed, 	bda5385afaf51dea06e7f054aa288e26	24f1f6aa40a230ec8f00a5e5ea699d9b
+data/com.google.android.gms/files/clearcut/0/MATCHSTICK_COUNTERS/-1575997169	sha1 changed, 	eadbcc3dcc70c89ac3d105842a3991fa687f01fb	b8beb3e71e19e303dbf84cdf0e8d47bc223e483b
+
+data/com.google.android.gms/shared_prefs/com.google.android.gms.analytics.prefs.xml	mtime changed, 	2021-04-03T15:04:28Z	->	2021-04-03T15:06:28Z
+data/com.google.android.gms/shared_prefs/com.google.android.gms.analytics.prefs.xml	atime changed, 	2021-04-03T15:04:28Z	->	2021-04-03T15:06:28Z
+data/com.google.android.gms/shared_prefs/com.google.android.gms.analytics.prefs.xml	ctime changed, 	2021-04-03T15:04:28Z	->	2021-04-03T15:06:28Z
+data/com.google.android.gms/shared_prefs/com.google.android.gms.analytics.prefs.xml	crtime changed, 	2021-04-03T15:04:28Z	->	2021-04-03T15:06:28Z
+data/com.google.android.gms/shared_prefs/com.google.android.gms.analytics.prefs.xml	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=308269056, img_offset=308269056, len=415)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=305926144, img_offset=305926144, len=415)])
+data/com.google.android.gms/shared_prefs/com.google.android.gms.analytics.prefs.xml	inode changed, 	       16336	       16348
+data/com.google.android.gms/shared_prefs/com.google.android.gms.analytics.prefs.xml	md5 changed, 	ced1fa59120adaafc64fcc5ecf6fdfd1	8aa0cd2aea609d8fde08baf9ed8f0ba7
+data/com.google.android.gms/shared_prefs/com.google.android.gms.analytics.prefs.xml	sha1 changed, 	4bd3417e99d7710197c3ba9fca8e123b1432c215	0c08c334e805520289f8fc653e73482219b6febb
+
+data/com.google.android.gms/databases/google_analytics_v4.db-shm	mtime changed, 	2021-04-03T15:05:56Z	->	2021-04-03T15:06:36Z
+data/com.google.android.gms/databases/google_analytics_v4.db-shm	ctime changed, 	2021-04-03T15:05:56Z	->	2021-04-03T15:06:36Z
+data/com.google.android.gms/databases/google_analytics_v4.db-shm	md5 changed, 	29ec17a0b73a4f3a45419f9c106c972c	41af14a41ec92137f2a0a14569d64390
+data/com.google.android.gms/databases/google_analytics_v4.db-shm	sha1 changed, 	b929f70d033ee6bdada480e324c585d5da1c33b1	f6fa267e2571236b1a29b0486f95799711ee833a
+
+data/com.axa.trx.bodyguard/databases/google_analytics_v4.db-shm	mtime changed, 	2021-04-03T15:05:56Z	->	2021-04-03T15:06:36Z
+data/com.axa.trx.bodyguard/databases/google_analytics_v4.db-shm	ctime changed, 	2021-04-03T15:05:56Z	->	2021-04-03T15:06:36Z
+data/com.axa.trx.bodyguard/databases/google_analytics_v4.db-shm	md5 changed, 	91bfbd6223a15238220b79aaea20371f	0d1e352864e4c2b644de3b4ae0cb3254
+data/com.axa.trx.bodyguard/databases/google_analytics_v4.db-shm	sha1 changed, 	63999bf72ee25c8288fc7f6acb33c2583df317d2	38ae303b4a5b5a400273b58ad9b792cf98b72897
+
+data/com.google.android.gms/files/clearcut/0/BEACON_GCORE/924852167	mtime changed, 	2021-04-03T15:05:56Z	->	2021-04-03T15:06:36Z
+data/com.google.android.gms/files/clearcut/0/BEACON_GCORE/924852167	ctime changed, 	2021-04-03T15:05:56Z	->	2021-04-03T15:06:36Z
+data/com.google.android.gms/files/clearcut/0/BEACON_GCORE/924852167	md5 changed, 	91bfbd6223a15238220b79aaea20371f	0d1e352864e4c2b644de3b4ae0cb3254
+data/com.google.android.gms/files/clearcut/0/BEACON_GCORE/924852167	sha1 changed, 	63999bf72ee25c8288fc7f6acb33c2583df317d2	38ae303b4a5b5a400273b58ad9b792cf98b72897
+
+data/com.google.android.gms/shared_prefs	mtime changed, 	2021-04-03T15:05:57Z	->	2021-04-03T15:06:38Z
+data/com.google.android.gms/shared_prefs	ctime changed, 	2021-04-03T15:05:57Z	->	2021-04-03T15:06:38Z
+data/com.google.android.gms/shared_prefs	md5 changed, 	30ce12d245f24b3dc43a602fc73fe197	250ee8c17dec2293e69c266c7463524a
+data/com.google.android.gms/shared_prefs	sha1 changed, 	87aadb97993ba0e83bf0c8f032d157ab20dfeb71	9b0d3be3beed656fa97cdcd0688fecaa4124da7f
+
+data/com.google.android.gms/databases/google_analytics_v4.db-wal	mtime changed, 	2021-04-03T15:05:57Z	->	2021-04-03T15:06:38Z
+data/com.google.android.gms/databases/google_analytics_v4.db-wal	ctime changed, 	2021-04-03T15:05:57Z	->	2021-04-03T15:06:38Z
+data/com.google.android.gms/databases/google_analytics_v4.db-wal	md5 changed, 	9061b0657ca5ba9035902bd3e2a8a71a	67c4434ddc9b6a73d88b2522def392d8
+data/com.google.android.gms/databases/google_analytics_v4.db-wal	sha1 changed, 	1bf18f6b4d64becb3231baca0c9df36c35839cce	56afe647c336d2963d660560b7bb1f6f45b9e804
+
+data/com.axa.trx.bodyguard/databases/google_analytics_v4.db-wal	mtime changed, 	2021-04-03T15:05:57Z	->	2021-04-03T15:06:38Z
+data/com.axa.trx.bodyguard/databases/google_analytics_v4.db-wal	ctime changed, 	2021-04-03T15:05:57Z	->	2021-04-03T15:06:38Z
+data/com.axa.trx.bodyguard/databases/google_analytics_v4.db-wal	md5 changed, 	96c614115221a9ad43b63f454e9253c6	1c12dc7e02b04ef3d61a9fca517b8270
+data/com.axa.trx.bodyguard/databases/google_analytics_v4.db-wal	sha1 changed, 	40c5e7b8a0c3c46b94f94e6b6967b6ba5f6348cd	5e113f02e5cde0dac06aee4dbb02a1b2fe104f7f
+
+data/com.android.providers.calendar/shared_prefs/sanity.xml.bak	mtime changed, 	2021-04-03T15:05:59Z	->	2021-04-03T15:06:38Z
+data/com.android.providers.calendar/shared_prefs/sanity.xml.bak	atime changed, 	2021-04-03T15:05:59Z	->	2021-04-03T15:06:38Z
+data/com.android.providers.calendar/shared_prefs/sanity.xml.bak	ctime changed, 	2021-04-03T15:05:59Z	->	2021-04-03T15:06:38Z
+data/com.android.providers.calendar/shared_prefs/sanity.xml.bak	crtime changed, 	2021-04-03T15:05:59Z	->	2021-04-03T15:06:38Z
+data/com.android.providers.calendar/shared_prefs/sanity.xml.bak	data_brs changed, 	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=311861248, img_offset=311861248, len=255)])	ByteRuns(run_list=[ByteRun(file_offset=0, fs_offset=310009856, img_offset=310009856, len=113)])
+data/com.android.providers.calendar/shared_prefs/sanity.xml.bak	filesize changed, 	         255	         113
+data/com.android.providers.calendar/shared_prefs/sanity.xml.bak	gid changed, 	       10085	       10012
+data/com.android.providers.calendar/shared_prefs/sanity.xml.bak	inode changed, 	       16319	       16317
+data/com.android.providers.calendar/shared_prefs/sanity.xml.bak	md5 changed, 	a498e518ba352b60b80fd035186286c4	74b8fa7ee6429dbc94e7556defbb3895
+data/com.android.providers.calendar/shared_prefs/sanity.xml.bak	sha1 changed, 	a452ecb56adf3b96bff2a751d7430b63f0cd5e6b	381fc284930b663d10a271f939705c55656399ae
+data/com.android.providers.calendar/shared_prefs/sanity.xml.bak	uid changed, 	       10085	       10012
+
+
+Files with changed properties:
+==============================
+
+data/com.google.android.gms/files/clearcut/0/CONSTELLATION/-1934693067	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+data/com.google.android.gms/files/clearcut/0/ANDROID_CHECKIN_METRICS_LOG/-300531837	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+data/com.android.contacts/shared_prefs/com.android.contacts.xml.bak	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+data/com.google.android.gms/databases/downloads.db-shm	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+data/com.google.android.apps.messaging/files/com.google.android.rcs.bak	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z
+
+data/com.google.android.gms/databases/netrec-shm	ctime changed, 	2021-04-03T14:59:54Z	->	2021-04-03T15:06:18Z

@@ -1,0 +1,11 @@
+\begin{table}
+\centering
+\caption{ce_filter/s7.ce}
+\begin{tabular}{lrrrrr}
+\toprule
+Empty DataFrame
+Columns: Index(['cr', 'm', 'a', 'c', 'd'], dtype='object')
+Index: Index([], dtype='object', name='Path') \\
+\bottomrule
+\end{tabular}
+\end{table}

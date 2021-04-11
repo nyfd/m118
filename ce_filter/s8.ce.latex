@@ -1,0 +1,14 @@
+\begin{table}
+\centering
+\caption{ce_filter/s8.ce}
+\begin{tabular}{llllll}
+\toprule
+{} & cr &  m &  a &  c &  d \\
+Path                                                                             &    &    &    &    &    \\
+\midrule
+data/com.axa.trx.bodyguard/cache/org.chromium.android\_webview/337628d56b65be21\_0 &  \faCheck &  \faCheck &  \faCheck &  \faCheck &    \\
+data/com.axa.trx.bodyguard/shared\_prefs/com.google.android.gms.appid.xml.bak     &  \faCheck &  \faCheck &  \faCheck &  \faCheck &    \\
+data/com.axa.trx.bodyguard/shared\_prefs/TSLocationManager.xml.bak                &    &    &    &    &  \faCheck \\
+\bottomrule
+\end{tabular}
+\end{table}

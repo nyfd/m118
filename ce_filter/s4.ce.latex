@@ -1,0 +1,39 @@
+\begin{table}
+\centering
+\caption{ce_filter/s4.ce}
+\begin{tabular}{llllll}
+\toprule
+{} & cr &  m &  a &  c &  d \\
+Path                                                                                                  &    &    &    &    &    \\
+\midrule
+data/com.axa.trx.bodyguard/cache/com.google.android.gms.maps.volley                                   &  \faCheck &  \faCheck &  \faCheck &  \faCheck &    \\
+data/com.axa.trx.bodyguard/databases/google\_analytics\_v4.db                                           &  \faCheck &    &  \faCheck &    &    \\
+data/com.axa.trx.bodyguard/databases/google\_analytics\_v4.db-shm                                       &  \faCheck &    &  \faCheck &    &    \\
+data/com.axa.trx.bodyguard/databases/google\_analytics\_v4.db-wal                                       &  \faCheck &    &  \faCheck &    &    \\
+data/com.axa.trx.bodyguard/files/DATA\_ServerControlledParametersManager.data.com.axa.trx.bodyguard    &  \faCheck &    &  \faCheck &    &    \\
+data/com.axa.trx.bodyguard/files/DATA\_disk\_creation\_time\_its                                          &  \faCheck &  \faCheck &  \faCheck &  \faCheck &    \\
+data/com.axa.trx.bodyguard/files/DATA\_disk\_creation\_time\_its\_ter                                      &  \faCheck &  \faCheck &  \faCheck &  \faCheck &    \\
+data/com.axa.trx.bodyguard/files/DATA\_disk\_creation\_time\_vts\_com.axa.trx.bodyguard\_default            &  \faCheck &  \faCheck &  \faCheck &  \faCheck &    \\
+data/com.axa.trx.bodyguard/files/DATA\_disk\_creation\_time\_vts\_inaka\_com.axa.trx.bodyguard\_default      &  \faCheck &    &  \faCheck &    &    \\
+data/com.axa.trx.bodyguard/files/DATA\_disk\_creation\_time\_vts\_labl\_com.axa.trx.bodyguard\_default       &  \faCheck &  \faCheck &  \faCheck &  \faCheck &    \\
+data/com.axa.trx.bodyguard/files/DATA\_disk\_creation\_time\_vts\_no\_pois\_com.axa.trx.bodyguard\_default    &  \faCheck &  \faCheck &  \faCheck &  \faCheck &    \\
+data/com.axa.trx.bodyguard/files/ZoomTables.data.v1                                                   &  \faCheck &  \faCheck &  \faCheck &  \faCheck &    \\
+data/com.axa.trx.bodyguard/files/\_m\_t                                                                 &  \faCheck &  \faCheck &  \faCheck &  \faCheck &    \\
+data/com.axa.trx.bodyguard/files/com.google.android.gms.maps.\_m\_u                                     &  \faCheck &  \faCheck &  \faCheck &  \faCheck &    \\
+data/com.axa.trx.bodyguard/files/gaClientId                                                           &  \faCheck &  \faCheck &  \faCheck &  \faCheck &    \\
+data/com.axa.trx.bodyguard/shared\_prefs/com.google.android.gms.analytics.prefs.xml                    &  \faCheck &  \faCheck &  \faCheck &  \faCheck &    \\
+data/com.axa.trx.bodyguard/shared\_prefs/com.google.maps.api.android.lib6.drd.PREFERENCES\_FILE.xml     &  \faCheck &  \faCheck &  \faCheck &  \faCheck &    \\
+data/com.axa.trx.bodyguard/shared\_prefs/com.google.maps.api.android.lib6.drd.PREFERENCES\_FILE.xml.bak &  \faCheck &  \faCheck &  \faCheck &  \faCheck &    \\
+media/0/Android/data/com.axa.trx.bodyguard/cache/cache\_bd.m                                           &  \faCheck &    &  \faCheck &    &    \\
+media/0/Android/data/com.axa.trx.bodyguard/cache/cache\_its.m                                          &  \faCheck &    &  \faCheck &    &    \\
+media/0/Android/data/com.axa.trx.bodyguard/cache/cache\_its\_ter.m                                      &  \faCheck &    &  \faCheck &    &    \\
+media/0/Android/data/com.axa.trx.bodyguard/cache/cache\_r.0                                            &  \faCheck &    &  \faCheck &    &    \\
+media/0/Android/data/com.axa.trx.bodyguard/cache/cache\_r.m                                            &  \faCheck &    &  \faCheck &    &    \\
+media/0/Android/data/com.axa.trx.bodyguard/cache/cache\_vts\_com.axa.trx.bodyguard\_default.m            &  \faCheck &    &  \faCheck &    &    \\
+media/0/Android/data/com.axa.trx.bodyguard/cache/cache\_vts\_labl\_com.axa.trx.bodyguard\_default.m       &  \faCheck &    &  \faCheck &    &    \\
+media/0/Android/data/com.axa.trx.bodyguard/cache/cache\_vts\_no\_pois\_com.axa.trx.bodyguard\_default.m    &  \faCheck &    &  \faCheck &    &    \\
+media/0/Android/data/com.axa.trx.bodyguard/cache/debug                                                &  \faCheck &  \faCheck &  \faCheck &  \faCheck &    \\
+data/com.axa.trx.bodyguard/files/frc\_1:177038109902:android:6adb10dfaeb0048d\_fireperf\_fetch.json      &    &    &    &    &  \faCheck \\
+\bottomrule
+\end{tabular}
+\end{table}

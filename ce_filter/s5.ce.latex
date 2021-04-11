@@ -1,0 +1,12 @@
+\begin{table}
+\centering
+\caption{ce_filter/s5.ce}
+\begin{tabular}{llllll}
+\toprule
+{} & cr &  m &  a &  c & d \\
+Path                                                   &    &    &    &    &   \\
+\midrule
+data/com.axa.trx.bodyguard/shared\_prefs/Diagnostic.xml &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+\bottomrule
+\end{tabular}
+\end{table}

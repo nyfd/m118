@@ -1,0 +1,6 @@
+                                                                                                          cr  m  a  c d
+Path                                                                                                                   
+data/com.axa.trx.bodyguard/app_webview/Cookies                                                             ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/app_webview/Cookies-journal                                                     ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/a4840a7d82d24f60_0                           ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/shared_prefs/com.transistorsoft.locationmanager.geofence.TSGeofenceManager.xml  ✓  ✓  ✓  ✓  

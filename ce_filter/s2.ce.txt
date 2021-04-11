@@ -1,0 +1,11 @@
+                                                       cr  m  a  c d
+Path                                                                
+data/com.axa.trx.bodyguard/cache                        ✓     ✓     
+data/com.axa.trx.bodyguard/code_cache                   ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/lib                          ✓  ✓  ✓  ✓  
+misc/profiles/cur/0/com.axa.trx.bodyguard               ✓  ✓  ✓  ✓  
+misc/profiles/cur/0/com.axa.trx.bodyguard/primary.prof  ✓     ✓     
+misc/profiles/ref/com.axa.trx.bodyguard                 ✓  ✓  ✓  ✓  
+user_de/0/com.axa.trx.bodyguard                         ✓     ✓     
+user_de/0/com.axa.trx.bodyguard/cache                   ✓  ✓  ✓  ✓  
+user_de/0/com.axa.trx.bodyguard/code_cache              ✓  ✓  ✓  ✓  

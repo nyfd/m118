@@ -1,0 +1,30 @@
+                                                                                                      cr  m  a  c  d
+Path                                                                                                                
+data/com.axa.trx.bodyguard/cache/com.google.android.gms.maps.volley                                    ✓  ✓  ✓  ✓   
+data/com.axa.trx.bodyguard/databases/google_analytics_v4.db                                            ✓     ✓      
+data/com.axa.trx.bodyguard/databases/google_analytics_v4.db-shm                                        ✓     ✓      
+data/com.axa.trx.bodyguard/databases/google_analytics_v4.db-wal                                        ✓     ✓      
+data/com.axa.trx.bodyguard/files/DATA_ServerControlledParametersManager.data.com.axa.trx.bodyguard     ✓     ✓      
+data/com.axa.trx.bodyguard/files/DATA_disk_creation_time_its                                           ✓  ✓  ✓  ✓   
+data/com.axa.trx.bodyguard/files/DATA_disk_creation_time_its_ter                                       ✓  ✓  ✓  ✓   
+data/com.axa.trx.bodyguard/files/DATA_disk_creation_time_vts_com.axa.trx.bodyguard_default             ✓  ✓  ✓  ✓   
+data/com.axa.trx.bodyguard/files/DATA_disk_creation_time_vts_inaka_com.axa.trx.bodyguard_default       ✓     ✓      
+data/com.axa.trx.bodyguard/files/DATA_disk_creation_time_vts_labl_com.axa.trx.bodyguard_default        ✓  ✓  ✓  ✓   
+data/com.axa.trx.bodyguard/files/DATA_disk_creation_time_vts_no_pois_com.axa.trx.bodyguard_default     ✓  ✓  ✓  ✓   
+data/com.axa.trx.bodyguard/files/ZoomTables.data.v1                                                    ✓  ✓  ✓  ✓   
+data/com.axa.trx.bodyguard/files/_m_t                                                                  ✓  ✓  ✓  ✓   
+data/com.axa.trx.bodyguard/files/com.google.android.gms.maps._m_u                                      ✓  ✓  ✓  ✓   
+data/com.axa.trx.bodyguard/files/gaClientId                                                            ✓  ✓  ✓  ✓   
+data/com.axa.trx.bodyguard/shared_prefs/com.google.android.gms.analytics.prefs.xml                     ✓  ✓  ✓  ✓   
+data/com.axa.trx.bodyguard/shared_prefs/com.google.maps.api.android.lib6.drd.PREFERENCES_FILE.xml      ✓  ✓  ✓  ✓   
+data/com.axa.trx.bodyguard/shared_prefs/com.google.maps.api.android.lib6.drd.PREFERENCES_FILE.xml.bak  ✓  ✓  ✓  ✓   
+media/0/Android/data/com.axa.trx.bodyguard/cache/cache_bd.m                                            ✓     ✓      
+media/0/Android/data/com.axa.trx.bodyguard/cache/cache_its.m                                           ✓     ✓      
+media/0/Android/data/com.axa.trx.bodyguard/cache/cache_its_ter.m                                       ✓     ✓      
+media/0/Android/data/com.axa.trx.bodyguard/cache/cache_r.0                                             ✓     ✓      
+media/0/Android/data/com.axa.trx.bodyguard/cache/cache_r.m                                             ✓     ✓      
+media/0/Android/data/com.axa.trx.bodyguard/cache/cache_vts_com.axa.trx.bodyguard_default.m             ✓     ✓      
+media/0/Android/data/com.axa.trx.bodyguard/cache/cache_vts_labl_com.axa.trx.bodyguard_default.m        ✓     ✓      
+media/0/Android/data/com.axa.trx.bodyguard/cache/cache_vts_no_pois_com.axa.trx.bodyguard_default.m     ✓     ✓      
+media/0/Android/data/com.axa.trx.bodyguard/cache/debug                                                 ✓  ✓  ✓  ✓   
+data/com.axa.trx.bodyguard/files/frc_1:177038109902:android:6adb10dfaeb0048d_fireperf_fetch.json                   ✓

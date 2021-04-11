@@ -1,0 +1,71 @@
+                                                                                                          cr  m  a  c d
+Path                                                                                                                   
+data/com.axa.trx.bodyguard/app_database                                                                    ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/app_textures                                                                    ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/app_webview                                                                     ✓     ✓     
+data/com.axa.trx.bodyguard/app_webview/GPUCache                                                            ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/app_webview/GPUCache/index                                                      ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/app_webview/GPUCache/index-dir                                                  ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/app_webview/GPUCache/index-dir/temp-index                                       ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/app_webview/GPUCache/index-dir/the-real-index                                   ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/app_webview/Local Storage                                                       ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/app_webview/Local Storage/leveldb                                               ✓     ✓     
+data/com.axa.trx.bodyguard/app_webview/Local Storage/leveldb/000003.log                                    ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/app_webview/Local Storage/leveldb/CURRENT                                       ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/app_webview/Local Storage/leveldb/LOCK                                          ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/app_webview/Local Storage/leveldb/MANIFEST-000001                               ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/app_webview/Web Data                                                            ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/app_webview/Web Data-journal                                                    ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/app_webview/blob_storage                                                        ✓     ✓     
+data/com.axa.trx.bodyguard/app_webview/metrics_guid                                                        ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/app_webview/variations_seed_new                                                 ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/app_webview/variations_stamp                                                    ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/app_webview/webview_data.lock                                                   ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/cache/WebView                                                                   ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/cache/WebView/SafeBrowsing                                                      ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview                                              ✓     ✓     
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/index                                        ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/index-dir                                    ✓     ✓     
+data/com.axa.trx.bodyguard/databases                                                                       ✓     ✓     
+data/com.axa.trx.bodyguard/databases/_ionicstorage                                                         ✓     ✓     
+data/com.axa.trx.bodyguard/databases/com.google.android.datatransport.events                               ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/databases/com.google.android.datatransport.events-shm                           ✓     ✓     
+data/com.axa.trx.bodyguard/databases/com.google.android.datatransport.events-wal                           ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/databases/com.microsoft.appcenter.persistence                                   ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/databases/com.microsoft.appcenter.persistence-shm                               ✓     ✓     
+data/com.axa.trx.bodyguard/databases/com.microsoft.appcenter.persistence-wal                               ✓     ✓     
+data/com.axa.trx.bodyguard/files                                                                           ✓     ✓     
+data/com.axa.trx.bodyguard/files/.com.google.firebase.crashlytics                                          ✓     ✓     
+data/com.axa.trx.bodyguard/files/.com.google.firebase.crashlytics-ndk                                      ✓     ✓     
+data/com.axa.trx.bodyguard/files/.com.google.firebase.crashlytics/log-files                                ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/files/.com.google.firebase.crashlytics/report-persistence                       ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/files/.com.google.firebase.crashlytics/report-persistence/sessions              ✓     ✓     
+data/com.axa.trx.bodyguard/files/Documents                                                                 ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/files/appcenter                                                                 ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/files/appcenter/database_large_payloads                                         ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/files/error                                                                     ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/files/error/minidump                                                            ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/files/error/minidump/new                                                        ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/files/files                                                                     ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/files/frc_1:177038109902:android:6adb10dfaeb0048d_fireperf_activate.json        ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/files/frc_1:177038109902:android:6adb10dfaeb0048d_fireperf_fetch.json           ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/files/generatefid.lock                                                          ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/no_backup                                                                       ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/no_backup/com.google.android.gms.appid-no-backup                                ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/shared_prefs                                                                    ✓     ✓     
+data/com.axa.trx.bodyguard/shared_prefs/FirebaseAppHeartBeat.xml                                           ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/shared_prefs/WebViewChromiumPrefs.xml                                           ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/shared_prefs/WebViewSettings.xml                                                ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/shared_prefs/com.facebook.internal.MODEL_STORE.xml                              ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml              ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml                 ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/shared_prefs/com.facebook.sdk.attributionTracking.xml                           ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/shared_prefs/com.google.firebase.crashlytics.xml                                ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/shared_prefs/com.google.firebase.inappmessaging.xml                             ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/shared_prefs/com.google.firebase.remoteconfig_legacy_settings.xml               ✓  ✓  ✓  ✓  
+data/com.axa.trx.bodyguard/shared_prefs/frc_1:177038109902:android:6adb10dfaeb0048d_fireperf_settings.xml  ✓  ✓  ✓  ✓  
+media/0/Android/data/com.axa.trx.bodyguard                                                                 ✓  ✓  ✓  ✓  
+media/0/Android/data/com.axa.trx.bodyguard/cache                                                           ✓     ✓     
+media/0/Android/data/com.axa.trx.bodyguard/files                                                           ✓  ✓  ✓  ✓  
+user_de/0/com.axa.trx.bodyguard/app_phenotype_hermetic                                                     ✓  ✓  ✓  ✓  
+user_de/0/com.axa.trx.bodyguard/shared_prefs                                                               ✓  ✓  ✓  ✓  

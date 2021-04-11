@@ -1,0 +1,20 @@
+\begin{table}
+\centering
+\caption{ce_filter/s2.ce}
+\begin{tabular}{llllll}
+\toprule
+{} & cr &  m &  a &  c & d \\
+Path                                                   &    &    &    &    &   \\
+\midrule
+data/com.axa.trx.bodyguard/cache                       &  \faCheck &    &  \faCheck &    &   \\
+data/com.axa.trx.bodyguard/code\_cache                  &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/lib                         &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+misc/profiles/cur/0/com.axa.trx.bodyguard              &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+misc/profiles/cur/0/com.axa.trx.bodyguard/primary.prof &  \faCheck &    &  \faCheck &    &   \\
+misc/profiles/ref/com.axa.trx.bodyguard                &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+user\_de/0/com.axa.trx.bodyguard                        &  \faCheck &    &  \faCheck &    &   \\
+user\_de/0/com.axa.trx.bodyguard/cache                  &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+user\_de/0/com.axa.trx.bodyguard/code\_cache             &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+\bottomrule
+\end{tabular}
+\end{table}

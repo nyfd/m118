@@ -1,0 +1,15 @@
+\begin{table}
+\centering
+\caption{ce_filter/s6.ce}
+\begin{tabular}{llllll}
+\toprule
+{} & cr &  m &  a &  c & d \\
+Path                                                                                                      &    &    &    &    &   \\
+\midrule
+data/com.axa.trx.bodyguard/app\_webview/Cookies                                                            &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/app\_webview/Cookies-journal                                                    &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/cache/org.chromium.android\_webview/a4840a7d82d24f60\_0                          &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/shared\_prefs/com.transistorsoft.locationmanager.geofence.TSGeofenceManager.xml &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+\bottomrule
+\end{tabular}
+\end{table}

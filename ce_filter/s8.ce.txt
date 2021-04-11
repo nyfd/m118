@@ -1,0 +1,5 @@
+                                                                                 cr  m  a  c  d
+Path                                                                                           
+data/com.axa.trx.bodyguard/cache/org.chromium.android_webview/337628d56b65be21_0  ✓  ✓  ✓  ✓   
+data/com.axa.trx.bodyguard/shared_prefs/com.google.android.gms.appid.xml.bak      ✓  ✓  ✓  ✓   
+data/com.axa.trx.bodyguard/shared_prefs/TSLocationManager.xml.bak                             ✓

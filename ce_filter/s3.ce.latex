@@ -1,0 +1,80 @@
+\begin{table}
+\centering
+\caption{ce_filter/s3.ce}
+\begin{tabular}{llllll}
+\toprule
+{} & cr &  m &  a &  c & d \\
+Path                                                                                                      &    &    &    &    &   \\
+\midrule
+data/com.axa.trx.bodyguard/app\_database                                                                   &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/app\_textures                                                                   &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/app\_webview                                                                    &  \faCheck &    &  \faCheck &    &   \\
+data/com.axa.trx.bodyguard/app\_webview/GPUCache                                                           &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/app\_webview/GPUCache/index                                                     &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/app\_webview/GPUCache/index-dir                                                 &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/app\_webview/GPUCache/index-dir/temp-index                                      &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/app\_webview/GPUCache/index-dir/the-real-index                                  &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/app\_webview/Local Storage                                                      &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/app\_webview/Local Storage/leveldb                                              &  \faCheck &    &  \faCheck &    &   \\
+data/com.axa.trx.bodyguard/app\_webview/Local Storage/leveldb/000003.log                                   &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/app\_webview/Local Storage/leveldb/CURRENT                                      &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/app\_webview/Local Storage/leveldb/LOCK                                         &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/app\_webview/Local Storage/leveldb/MANIFEST-000001                              &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/app\_webview/Web Data                                                           &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/app\_webview/Web Data-journal                                                   &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/app\_webview/blob\_storage                                                       &  \faCheck &    &  \faCheck &    &   \\
+data/com.axa.trx.bodyguard/app\_webview/metrics\_guid                                                       &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/app\_webview/variations\_seed\_new                                                &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/app\_webview/variations\_stamp                                                   &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/app\_webview/webview\_data.lock                                                  &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/cache/WebView                                                                  &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/cache/WebView/SafeBrowsing                                                     &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/cache/org.chromium.android\_webview                                             &  \faCheck &    &  \faCheck &    &   \\
+data/com.axa.trx.bodyguard/cache/org.chromium.android\_webview/index                                       &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/cache/org.chromium.android\_webview/index-dir                                   &  \faCheck &    &  \faCheck &    &   \\
+data/com.axa.trx.bodyguard/databases                                                                      &  \faCheck &    &  \faCheck &    &   \\
+data/com.axa.trx.bodyguard/databases/\_ionicstorage                                                        &  \faCheck &    &  \faCheck &    &   \\
+data/com.axa.trx.bodyguard/databases/com.google.android.datatransport.events                              &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/databases/com.google.android.datatransport.events-shm                          &  \faCheck &    &  \faCheck &    &   \\
+data/com.axa.trx.bodyguard/databases/com.google.android.datatransport.events-wal                          &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/databases/com.microsoft.appcenter.persistence                                  &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/databases/com.microsoft.appcenter.persistence-shm                              &  \faCheck &    &  \faCheck &    &   \\
+data/com.axa.trx.bodyguard/databases/com.microsoft.appcenter.persistence-wal                              &  \faCheck &    &  \faCheck &    &   \\
+data/com.axa.trx.bodyguard/files                                                                          &  \faCheck &    &  \faCheck &    &   \\
+data/com.axa.trx.bodyguard/files/.com.google.firebase.crashlytics                                         &  \faCheck &    &  \faCheck &    &   \\
+data/com.axa.trx.bodyguard/files/.com.google.firebase.crashlytics-ndk                                     &  \faCheck &    &  \faCheck &    &   \\
+data/com.axa.trx.bodyguard/files/.com.google.firebase.crashlytics/log-files                               &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/files/.com.google.firebase.crashlytics/report-persistence                      &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/files/.com.google.firebase.crashlytics/report-persistence/sessions             &  \faCheck &    &  \faCheck &    &   \\
+data/com.axa.trx.bodyguard/files/Documents                                                                &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/files/appcenter                                                                &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/files/appcenter/database\_large\_payloads                                        &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/files/error                                                                    &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/files/error/minidump                                                           &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/files/error/minidump/new                                                       &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/files/files                                                                    &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/files/frc\_1:177038109902:android:6adb10dfaeb0048d\_fireperf\_activate.json       &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/files/frc\_1:177038109902:android:6adb10dfaeb0048d\_fireperf\_fetch.json          &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/files/generatefid.lock                                                         &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/no\_backup                                                                      &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/no\_backup/com.google.android.gms.appid-no-backup                               &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/shared\_prefs                                                                   &  \faCheck &    &  \faCheck &    &   \\
+data/com.axa.trx.bodyguard/shared\_prefs/FirebaseAppHeartBeat.xml                                          &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/shared\_prefs/WebViewChromiumPrefs.xml                                          &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/shared\_prefs/WebViewSettings.xml                                               &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/shared\_prefs/com.facebook.internal.MODEL\_STORE.xml                             &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/shared\_prefs/com.facebook.internal.preferences.APP\_GATEKEEPERS.xml             &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/shared\_prefs/com.facebook.internal.preferences.APP\_SETTINGS.xml                &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/shared\_prefs/com.facebook.sdk.attributionTracking.xml                          &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/shared\_prefs/com.google.firebase.crashlytics.xml                               &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/shared\_prefs/com.google.firebase.inappmessaging.xml                            &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/shared\_prefs/com.google.firebase.remoteconfig\_legacy\_settings.xml              &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+data/com.axa.trx.bodyguard/shared\_prefs/frc\_1:177038109902:android:6adb10dfaeb0048d\_fireperf\_settings.xml &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+media/0/Android/data/com.axa.trx.bodyguard                                                                &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+media/0/Android/data/com.axa.trx.bodyguard/cache                                                          &  \faCheck &    &  \faCheck &    &   \\
+media/0/Android/data/com.axa.trx.bodyguard/files                                                          &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+user\_de/0/com.axa.trx.bodyguard/app\_phenotype\_hermetic                                                    &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+user\_de/0/com.axa.trx.bodyguard/shared\_prefs                                                              &  \faCheck &  \faCheck &  \faCheck &  \faCheck &   \\
+\bottomrule
+\end{tabular}
+\end{table}
